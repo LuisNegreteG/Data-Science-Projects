@@ -1,6 +1,6 @@
 # Airline Demand Predictive Analytics (Time Series Forecasting)
 
-## 📄 Project Overview
+## Project Overview
 This project builds a **time series forecasting** pipeline to model and predict **airline passenger demand**.  
 It uses classical statistical models (**ARIMA / SARIMA**) from `statsmodels` and includes full diagnostics (stationarity tests, ACF/PACF, residual analysis).
 
